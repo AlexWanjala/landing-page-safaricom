@@ -94,8 +94,10 @@
 
         <div class="row  the-main-container-main">
           <div class="contaner-header-area">
-            <h1 class="text-white mt-2">Craft Silicon Collect</h1>
-            <p class="mb-0 pb-0">
+            <div class="mt-2 saf-logo" >
+                            <img src="demo/img/SAF-MAIN-LOGO.png" alt="" class="img">
+                        </div>
+            <p class="mb-0 pb-0 d-none">
               Available Platforms
             </p>
             <div>
@@ -122,20 +124,20 @@
                   </div>
                 </div>
                 <div class="col-sm-12 col-md-4">
-                  <div class="the-module">
-                    <div class="module-icon">
-                      <i class="mdi mdi-receipt"></i>
-                    </div>
-                    <div class="module-info">
-                      <h4>County Biller</h4>
-                      <p>
-                        From this portal, you can get to create and receipt county bills.
-                      </p>
-                      <br><br>
-                      <a target="new"  href="https://ozzaynetwork.github.io/Homabay-county-biller/" class="btn btn-primary btn-sm">View Module <i class="mdi mdi-arrow-right"></i></a>
-                    </div>
-                  </div>
-                </div>
+                                    <div class="the-module">
+                                        <div class="module-icon">
+                                            <i class="mdi mdi-receipt"></i>
+                                        </div>
+                                        <div class="module-info">
+                                            <h4>County Biller</h4>
+                                            <p>
+                                                From this portal, you can get to create and receipt county bills.
+                                            </p>
+                                            <br>
+                                            <a target="new"  href="https://ozzaynetwork.github.io/safaricom-biller/" class="btn btn-primary btn-sm">View Module <i class="mdi mdi-arrow-right"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
                 <div class="col-sm-12 col-md-4">
                   <div class="the-module">
                     <div class="module-icon">
@@ -151,51 +153,68 @@
                     </div>
                   </div>
                 </div>
+                <div class="col-sm-12 col-md-4">
+                                    <div class="the-module">
+                                        <div class="module-icon ">
+                                            <i class="flaticon-analytics"></i>
+                                        </div>
+                                        <div class="module-info">
+                                            <h4>Finance Dashboard</h4>
+                                            <p>								
+                                                Shows a summary of revenue collection and gives comparison between current week and previous week.
+                                             </p>
+                                            <a target="new"  href=" https://ozzaynetwork.github.io/safaricom-finance/" class="btn btn-primary btn-sm">View Module <i class="mdi mdi-arrow-right"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-sm-12 col-md-4">
+                                    <div class="the-module">
+                                        <div class="module-icon ">
+                                            <i class="mdi mdi-billboard"></i>
+                                        </div>
+                                        <div class="module-info">
+                                            <h4>Adverts Dashboard</h4>
+                                            <p>
+                                                Generate bills for the different adverts payments, view current status of an advert on a map & the amount paid.
+                                            </p>
+                                            <a target="new"  href="https://ozzaynetwork.github.io/safaricom-adverts/" class="btn btn-primary btn-sm">View Module <i class="mdi mdi-arrow-right"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-sm-12 col-md-4">
+                                    <div class="the-module">
+                                        <div class="module-icon ">
+                                            <i class="mdi mdi-storefront-outline"></i>
+                                        </div>
+                                        <div class="module-info">
+                                            <h4>Markets Dashboard</h4>
+                                            <p>
+                                                Get to see trends and perfomance on the markets and <br> fisheries.
+                                            </p>
+                                            <a target="new"  href="https://ozzaynetwork.github.io/safaricom-markets/" class="btn btn-primary btn-sm">View Module <i class="mdi mdi-arrow-right"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+               
 
                 <div class="col-sm-12 col-md-4">
-                  <div class="the-module">
-                    <div class="module-icon ">
-                      <i class="flaticon-analytics"></i>
-                    </div>
-                    <div class="module-info">
-                      <h4>Finance Dashboard</h4>
-                      <p>
-                        Shows a summary of revenue collection and gives comparison between current week and previous week.
-                      </p>
-                      <a target="new"  href="https://ozzaynetwork.github.io/homabay-finance-dashboard/" class="btn btn-primary btn-sm">View Module <i class="mdi mdi-arrow-right"></i></a>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-sm-12 col-md-4">
-                  <div class="the-module">
-                    <div class="module-icon ">
-                      <i class="mdi mdi-billboard"></i>
-                    </div>
-                    <div class="module-info">
-                      <h4>Adverts Dashboard</h4>
-                      <p>
-                        Generate bills for the different adverts payments, view current status of an advert on a map & the amount paid.
-                      </p>
-                      <a target="new"  href="https://ozzaynetwork.github.io/Homa-Bay-Add-dashboard" class="btn btn-primary btn-sm">View Module <i class="mdi mdi-arrow-right"></i></a>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-sm-12 col-md-4">
-                  <div class="the-module">
-                    <div class="module-icon ">
-                      <i class="mdi mdi-storefront-outline"></i>
-                    </div>
-                    <div class="module-info">
-                      <h4>Markets Dashboard</h4>
-                      <p>
-                        Get to see trends and perfomance on the markets and <br> fisheries.
-                      </p>
-                      <a target="new"  href="https://ozzaynetwork.github.io/marktes-dashboard/" class="btn btn-primary btn-sm">View Module <i class="mdi mdi-arrow-right"></i></a>
-                    </div>
-                  </div>
-                </div>
+                                    <div class="the-module">
+                                        <div class="module-icon ">
+                                            <i class="mdi mdi-office-building-marker-outline"></i>
+                                        </div>
+                                        <div class="module-info">
+                                            <h4>eConstruction</h4>
+                                            <p>
+                                                Get to see trends and perfomance on the eConstruction.
+                                                <br>
+                                            </p>
+                                            <a target="new"  href=" https://ozzaynetwork.github.io/econstruction-safaricom/" class="btn btn-primary btn-sm">View Module <i class="mdi mdi-arrow-right"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
                 <div class="col-12 pt-4 d-none">
                   <small class="mr-3">Powered by</small>
                   <img class="img" height="40px" src="demo/img/logo.svg">
